@@ -1,0 +1,12 @@
+img {
+   display: block;
+    margin: auto;
+    height: 200px;
+    width: 150px;
+}
+
+p {
+    color: deeppink;
+    text-align: center
+
+}
